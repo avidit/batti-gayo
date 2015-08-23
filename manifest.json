@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Batti gayo",
+  "version": "1.0",
+  "description": "Loadshedding schedule Nepal",
+  "browser_action": {
+    "default_icon": {
+      "38": "icon.png"
+    },
+    "default_title": "Batti gayo",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
